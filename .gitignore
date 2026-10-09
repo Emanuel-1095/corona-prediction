@@ -1,0 +1,23 @@
+# Caché de Python
+__pycache__/
+*.pyc
+
+# Archivos temporales de Jupyter
+.ipynb_checkpoints/
+
+# Imagenes 
+*.jpg
+*.png
+*.svg
+
+# Otros
+*.rar
+*.txt
+*.pdf
+
+# Carpetas
+llm/
+predictions/models/
+
+# Objetos de Python serializados
+*.joblib

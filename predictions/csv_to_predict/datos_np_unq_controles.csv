@@ -1,0 +1,8 @@
+np_without_modification,surface_modification,size_tem,zeta_potential,incubation_protein_source,incubation_plasma_concentration,incubation_np_concentration,centrifugation_speed,centrifugation_time,centrifugation_temperature,np_type,np_shape,dispersion_medium,dispersion_medium_ph,size_dls,pdi,incubation_culture,incubation_time,incubation_temperature,centrifugation_repetitions,modification_type
+LPT:BR:SPC:ColNa ,none,-,-27.8,HP,50,887.52,0,0,25,liposome,sphere,buffer,7.4,129.6,0.16,buffer,1,37,0,Neutral
+LPT:BR:SPC:ColNa ,none,-,-29.6,HP,50,887.52,0,0,25,liposome,sphere,buffer,7.4,123.7,0.12,buffer,1,37,0,Neutral
+SPC:ColNa ,none,-,-4.6,HP,50,775.04,0,0,25,liposome,sphere,buffer,7.4,114.3,0.12,buffer,1,37,0,Neutral
+SPC:ColNa ,none,-,-4.9,HP,50,775.04,0,0,25,liposome,sphere,buffer,7.4,109.9,0.12,buffer,1,37,0,Neutral
+HSPC-Chol,none,127.27,-27.87,RP,82,90,9000,20,25,liposome,sphere,plasma,7.4,104.76,0.17,water,0.166666667,37,1,Neutral
+HSPC-Chol-DSPE-PEG20000,PEG,121.82,-30.37,RP,82,90,9000,20,25,liposome,sphere,plasma,7.4,100.98,0.15,water,0.166666667,37,1,Neutral
+Chol-PC,none,248.8,-10.9,HP,50,500,18000,15,25,liposome,sphere,buffer,7.4,248.8,0.126944444,buffer,1,37,1,Anionic
